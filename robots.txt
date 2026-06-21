@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://re15555249769-bot.github.io/prompt-generator/sitemap.xml
+Sitemap: https://249769.github.io/prompt-generator/sitemap.xml

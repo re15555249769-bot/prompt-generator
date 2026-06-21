@@ -3,20 +3,20 @@
 这个文件夹用于发布 GitHub Pages 网站。当前配置对应仓库：
 
 ```text
-https://github.com/re15555249769-bot/prompt-generator
+https://github.com/249769/prompt-generator
 ```
 
 网站地址：
 
 ```text
-https://re15555249769-bot.github.io/prompt-generator/
+https://249769.github.io/prompt-generator/
 ```
 
 软件下载文件已经放在 GitHub Releases，网页下载按钮会指向：
 
 ```text
-https://github.com/re15555249769-bot/prompt-generator/releases/latest/download/PromptGenerator-Setup.exe
-https://github.com/re15555249769-bot/prompt-generator/releases/latest/download/PromptGenerator-Portable.zip
+https://github.com/249769/prompt-generator/releases/latest/download/PromptGenerator-Setup.exe
+https://github.com/249769/prompt-generator/releases/latest/download/PromptGenerator-Portable.zip
 ```
 
 ## 上传到 GitHub Pages
@@ -46,7 +46,7 @@ https://github.com/re15555249769-bot/prompt-generator/releases/latest/download/P
 等待 1 到 10 分钟后，访问：
 
 ```text
-https://re15555249769-bot.github.io/prompt-generator/
+https://249769.github.io/prompt-generator/
 ```
 
 ## 搜索引擎提交
@@ -54,7 +54,7 @@ https://re15555249769-bot.github.io/prompt-generator/
 网站上线后，可以提交 sitemap：
 
 ```text
-https://re15555249769-bot.github.io/prompt-generator/sitemap.xml
+https://249769.github.io/prompt-generator/sitemap.xml
 ```
 
 提交入口：
